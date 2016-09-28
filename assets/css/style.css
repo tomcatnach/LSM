@@ -1,8 +1,4 @@
-.testclass {
-  border: 1px; }
-  .testclass .subclass {
-    border: 2px; }
-  .testclass .asdf {
-    border: 1px; }
+body {
+  padding-top: 70px; }
 
 /*# sourceMappingURL=style.css.map */
