@@ -1,4 +1,4 @@
-Title: LSM Special - Content Marketing
+Title: LSM Special - Content Marketing Workshop
 
 ----
 
@@ -8,9 +8,7 @@ Date: 2016-10-05
 
 Text: 
 
-# London Startup Marketing Workshop
-
-Hey guys, we've had amazing feedback from our first paid workshop that we've decided to organise it again for those who missed it!
+#### Hey guys, we've had amazing feedback from our first paid workshop that we've decided to organise it again for those who missed it!
 
 Our incredible first speaker is **Mark Colgan a Digital Marketing Specialist** who will present an interactive workshop on Content Marketing.
 
@@ -70,3 +68,7 @@ Timestart: 18:00
 ----
 
 Timeend: 21:00
+
+----
+
+Location: WeWork Soho, Medius House, 2 Sheraton St, London W1F 8BH

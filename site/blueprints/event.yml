@@ -21,6 +21,9 @@ fields:
     label: Time End
     type: time
     width: 1/3
+  location:
+    label: Location
+    type: text
   ebrite:
     label: EventBrite
     type: text

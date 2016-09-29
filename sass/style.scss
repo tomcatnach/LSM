@@ -1,3 +1,24 @@
+@import 'fonts';
+@import 'colors';
+
 body {
   padding-top: 70px;
+  font-family: "Blogger Sans";
+  color: $nearblack;
+}
+
+.navbar-default {
+  background-color: $red;
+  border-color: #e7e7e7;
+
+  .navbar-brand{
+    color: #fff;
+    &>img{width: 20px;}
+  }
+
+  .navbar-nav {
+    & li {
+      a {color: #fff;}
+    }
+  }
 }
