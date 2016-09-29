@@ -6,9 +6,24 @@ fields:
   title:
     label: Title
     type:  text
+  subtitle:
+    label: Sub Title
+    type:  text
   date:
     label: Date
     type: date
+    width: 1/3
+  timestart:
+    label: Time Start
+    type: time
+    width: 1/3
+  timeend:
+    label: Time End
+    type: time
+    width: 1/3
+  ebrite:
+    label: EventBrite
+    type: text
   text:
     label: Text
     type:  textarea
