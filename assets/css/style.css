@@ -33,7 +33,7 @@
 body {
   padding-top: 70px;
   font-family: "Blogger Sans";
-  color: #232323; }
+  color: #303030; }
 
 .navbar-default {
   background-color: #ff5454;
@@ -44,5 +44,22 @@ body {
       width: 20px; }
   .navbar-default .navbar-nav li a {
     color: #fff; }
+
+.footer {
+  background-color: #303030;
+  color: #fff; }
+  .footer__container {
+    margin-top: 20px;
+    padding-top: 40px;
+    padding-bottom: 30px; }
+
+.upComeEvent {
+  border: solid #ff5454 3px;
+  border-radius: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 15px; }
+  .upComeEvent a {
+    color: #ff5454; }
 
 /*# sourceMappingURL=style.css.map */

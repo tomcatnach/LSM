@@ -22,3 +22,24 @@ body {
     }
   }
 }
+
+.footer {
+  background-color: $nearblack;
+  color: #fff;
+
+  &__container{
+    margin-top: 20px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+  }
+}
+
+.upComeEvent {
+  border: solid $red 3px;
+  border-radius: 10px;
+  padding-left:15px;
+  padding-right:15px;
+  margin-bottom: 15px;
+  a {
+    color: $red;}
+}
