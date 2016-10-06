@@ -1,6 +1,5 @@
 <?php snippet('header') ?>
 
-<main class="main" role="main">
     <div class="container">
         <div class="col-md-8 col-md-offset-2">
             <div class="jumbotron">
@@ -12,6 +11,4 @@
 
     <?php snippet('upcomingEvents') ?>
 
-  </main>
-
-<?php snippet('footer') ?>
+    <?php snippet('footer') ?>
