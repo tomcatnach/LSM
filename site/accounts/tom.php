@@ -7,8 +7,8 @@ email: tom@londonstartupmarketing.com
 language: en
 role: admin
 history:
+  - events/content-marketing
   - contact
   - about
   - home
-  - events/content-marketing
   - events/test-event-4

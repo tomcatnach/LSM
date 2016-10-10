@@ -14,6 +14,9 @@
   <?php echo css('assets/css/bootstrap.min.css') ?>
   <?php echo css('assets/css/style.css') ?>
 
+  <?php snippet('googleTagHead') ?>
+
 </head>
 <body>
+    <?php snippet('googleTagBody') ?>
     <?php snippet('menu') ?>

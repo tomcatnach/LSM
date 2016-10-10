@@ -16,10 +16,12 @@ fields:
   timestart:
     label: Time Start
     type: time
+    interval: 30
     width: 1/3
   timeend:
     label: Time End
     type: time
+    interval: 30
     width: 1/3
   location:
     label: Location
